@@ -1,0 +1,93 @@
+.empdev{
+  width:588px;
+  height:fit-content;
+  margin-left: 77px;
+}
+h3{
+  color:blueviolet;
+}
+.addeditpn{
+  border: 1px solid;
+  width:588px;
+  height:60px;
+  background-color: aqua;
+}
+.insearch{
+  width:211px;
+  height:25px;
+  border: 1px solid;
+  border-radius:5px;
+  margin-top :25px;
+  background-color: antiquewhite;
+}
+
+.addeditpndiv{
+  margin-left:5px;
+  display:inline-block;
+}
+.addeditpndivinput{
+  border: 1px solid;
+  border-radius: 5px;
+  width: 140px;
+  height:25px;
+  background-color: antiquewhite;
+}
+
+.addbutton{
+  border:1px solid;
+  border-radius:5px;
+  width:60px;
+  font-size:11px;
+  line-height: 15px;
+  margin-left:5px;
+  background-color: rgb(155,209,102);
+  color:blue;
+}
+.cancelbutton{
+  border:1px solid;
+  border-radius:5px;
+  width:60px;
+  font-size:11px;
+  line-height: 15px;
+  margin-left:5px;
+  background-color: rgb(219,117,117);
+  color:blue;
+}
+
+.emptable{
+  margin-top:10px;
+  width:588px;
+  height:fit-content;
+  border:1px solid;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th{
+  border:1px solid;
+  font-size:15px;
+  line-height: 18px;
+  background-color: rgb(149,172,235);
+}
+tr:nth-child(even){
+  background-color: coral;
+
+}
+.editBtn{
+  border:1px solid;
+  border-radius:5px;
+  font-size:10px;
+  line-height: 12px;
+  width:50px;
+  background-color: rgb(162, 218, 162);;
+}
+
+.delBtn{
+  border:1px solid;
+  border-radius:5px;
+  font-size:10px;
+  line-height: 12px;
+  width:50px;
+  background-color: red;; 
+  color: white;
+}
